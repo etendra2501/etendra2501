@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning Deep Learning.
 - 👯 I’m looking to collaborate in Open Source Project.
 - 📫 How to reach me: etendraverma2501@gmail.com
-- 😄 Pronouns: 
+- 😄 Ask me about anything
 
 ___
-![etendra2501 github stats](https://github-readme-stats.vercel.app/api?username=etendra2501)](https://github.com/etendra2501/github-readme-stats)
+![etendra2501 github stats](https://github-readme-stats.vercel.app/api?username=etendra2501)]
