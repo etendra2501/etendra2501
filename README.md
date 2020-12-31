@@ -1,6 +1,6 @@
 ### Hola! I'm Etendra Verma👋
 
-I'm Etendra from India, and I do Bachelors in Electronics and Communication Engineering. Ireally enjoyed learning new languages and frameworks like Python and Django, as well as work in Robotics.I also enjoying doing Competitive programming.
+I'm Etendra from India, and I do Bachelors in Electronics and Communication Engineering. I really enjoyed learning new languages and frameworks like Python and Django, as well as work in Robotics.I also enjoying doing Competitive programming.
 
 
 - 🔭 I’m interested to learn more about AI and Robotics.
