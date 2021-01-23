@@ -11,8 +11,7 @@ I'm Etendra from India, and I do Bachelors in Electronics and Communication Engi
 Skills: Python/C++/Flask/Django
 
 ___
-![etendra2501 github stats](https://github-readme-stats.vercel.app/api?username=etendra2501)]
-
+![etendra2501 github stats](https://github-readme-stats.vercel.app/api?username=etendra2501&show_icons=true&theme=radical)
 ### Connect with me:
 
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/etendra-verma-199514180/) 
