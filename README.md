@@ -1,4 +1,4 @@
-### Hola! I'm Etendra Verma👋
+## Hola! I'm Etendra Verma👋
 
 I'm Etendra from India, and I do Bachelors in Electronics and Communication Engineering. I really enjoyed learning new languages and frameworks like Python and Django, as well as work in Robotics.I also enjoying doing Competitive programming.
 
@@ -28,6 +28,6 @@ ___
 [<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />](etendraverma2501@gmail.com)
 [<img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>](https://twitter.com/etendra_verma/)
 
-![](https://visitor-badge.laobi.icu/badge?page_id=etendra2501.etendra2501)
+
 
 
