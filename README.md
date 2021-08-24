@@ -1,5 +1,5 @@
 ## Hola! I'm Etendra Verma👋
-<img alt="Programmer || Developer" width="400" src="https://cdn.dribbble.com/users/99287/screenshots/3839839/work_work_work.gif" align="right">
+<img alt="Programmer || Developer" width="380" src="https://cdn.dribbble.com/users/99287/screenshots/3839839/work_work_work.gif" align="right">
 
 I'm Etendra from India, and I do Bachelors in Electronics and Communication Engineering. I really enjoyed learning new languages and frameworks like Python and Django, as well as work in Robotics.I also enjoying doing Competitive programming.
 
