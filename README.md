@@ -1,4 +1,5 @@
 ## Hola! I'm Etendra Verma👋
+<img alt="Programmer || Developer" width="400" src="https://cdn.dribbble.com/users/99287/screenshots/3839839/work_work_work.gif" align="right">
 
 I'm Etendra from India, and I do Bachelors in Electronics and Communication Engineering. I really enjoyed learning new languages and frameworks like Python and Django, as well as work in Robotics.I also enjoying doing Competitive programming.
 
@@ -22,7 +23,7 @@ I'm Etendra from India, and I do Bachelors in Electronics and Communication Engi
 <img src="https://user-images.githubusercontent.com/52012982/122687764-b6fbff80-d235-11eb-8e91-e7ce061f5b92.png" alt="Git" height="40" style="vertical-align:top; margin:4px">
 <img src="https://user-images.githubusercontent.com/52012982/122687767-ba8f8680-d235-11eb-8f11-7f7737e55685.png" alt="Github" height="40" style="vertical-align:top; margin:4px">
 </p>
-
+<img alt="Programmer || Developer" width="300" src="https://i.pinimg.com/originals/78/5a/1b/785a1b9c359640da6bc9cfe3670b42ba.png" align="right">
 
 ___
 ![etendra2501 github stats](https://github-readme-stats.vercel.app/api?username=etendra2501&show_icons=true&theme=radical)
@@ -31,7 +32,6 @@ ___
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/etendra-verma-199514180/) 
 [<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />](etendraverma2501@gmail.com)
 [<img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>](https://twitter.com/etendra_verma/)
-
 
 
 
