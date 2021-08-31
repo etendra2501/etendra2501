@@ -1,6 +1,5 @@
-![](https://gateway.pinata.cloud/ipfs/QmRCz42XxuekvgyzZycCkWHnLQjsDNZhPuVSN1EXnt9jWQ) 
 ## Hola! I'm Etendra Verma👋
-<img alt="Programmer || Developer" width="380" src="https://cdn.dribbble.com/users/99287/screenshots/3839839/work_work_work.gif" align="right">
+<img alt="Programmer || Developer" width="380" src="https://raw.githubusercontent.com/Jannis/jannis/main/graph-developer.png" align="right">
 
 I'm Etendra from India, and I do Bachelors in Electronics and Communication Engineering. I really enjoyed learning new languages and Python frameworks like  Django, as well as work in Robotics.I also enjoying doing Competitive programming.
 
