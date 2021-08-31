@@ -1,3 +1,4 @@
+![](https://gateway.pinata.cloud/ipfs/QmRCz42XxuekvgyzZycCkWHnLQjsDNZhPuVSN1EXnt9jWQ) 
 ## Hola! I'm Etendra Verma👋
 <img alt="Programmer || Developer" width="380" src="https://cdn.dribbble.com/users/99287/screenshots/3839839/work_work_work.gif" align="right">
 
