@@ -1,7 +1,9 @@
 ## Hola! I'm Etendra Verma👋
+[![@etendra2501's Holopin board](https://holopin.io/api/user/board?user=etendra2501)](https://holopin.io/@etendra2501)
+
 <img alt="Programmer || Developer" width="340" src="https://raw.githubusercontent.com/Jannis/jannis/main/graph-developer.png" align="right">
 
-I'm Etendra from India, and pursuing Bachelors in Electronics and Communication Engineering. I really enjoyed learning new languages and Python frameworks like  Django, as well as work in Robotics.I also enjoying doing Competitive programming.
+I'm Etendra from India, and graduated in Electronics and Communication Engineering. I really enjoyed learning new languages and Python frameworks like  Django, as well as work in Robotics.I also enjoying doing Competitive programming.
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=etendra2501&label=Profile%20views&color=0e75b6&style=flat" alt="Etendra Verma" /> </p>
 
