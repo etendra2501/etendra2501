@@ -20,6 +20,7 @@ I'm Etendra from India, and graduated in Electronics and Communication Engineeri
 <a href="https://www.arduino.cc/" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a>
 <a href="https://cloud.google.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a>
 <a href="https://www.mysql.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/mysql/mysql-official.svg" alt="mysql" width="40" height="40"/> </a> 
+<img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer">
 <img src="https://user-images.githubusercontent.com/52012982/122687136-81a1e280-d232-11eb-86f8-cbc84dade76a.png" alt="Django" height="40" style="vertical-align:top; margin:4px">
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" alt="VS Code" height="40" style="vertical-align:top; margin:4px">
 <img src="https://user-images.githubusercontent.com/52012982/122687764-b6fbff80-d235-11eb-8e91-e7ce061f5b92.png" alt="Git" height="40" style="vertical-align:top; margin:4px">
@@ -36,7 +37,4 @@ ___
 [<img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>](https://twitter.com/etendra_verma/)
 
 
-
-
-
-
+![footer](https://user-images.githubusercontent.com/52012982/195276045-14b66c44-d780-4881-b32b-c9f0d28094d1.png)
