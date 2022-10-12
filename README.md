@@ -1,16 +1,19 @@
-## Hola! I'm Etendra Verma👋
+<h1 align="center"> Hola! I'm Etendra Verma👋</h1>
+
 [![@etendra2501's Holopin board](https://holopin.io/api/user/board?user=etendra2501)](https://holopin.io/@etendra2501)
 
-<img alt="Programmer || Developer" width="340" src="https://raw.githubusercontent.com/Jannis/jannis/main/graph-developer.png" align="right">
+<img alt="Programmer || Developer" width="340" src="https://github.com/etendra2501/etendra2501/blob/main/images/graph-developer.png" align="right">
 
-I'm Etendra from India, and graduated in Electronics and Communication Engineering. I really enjoyed learning new languages and Python frameworks like  Django, as well as work in Robotics.I also enjoying doing Competitive programming.
+<h3 align="center">I'm Etendra🙋‍,from India, and graduated in Electronics and Communication Engineering with a great passion for programming, a tech enthusiast with passion to solve problems and to make things. I really enjoyed learning new languages and Python frameworks like  Django, as well as work in Robotics.I also enjoying doing Competitive programming.</h3>
+ 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=etendra2501&label=Profile%20views&color=0e75b6&style=flat" alt="Etendra Verma" /> </p>
 
-- 🔭 I’m interested to learn more about AI and Robotics.
-- 🌱 I’m currently learning Deep Learning.
-- 👯 I’m looking to collaborate in Open Source Project.
-- 😄 Ask me about anything.
+- 🔭 I’m interested to learn more about **AI and Robotics**
+- 🌱 I’m currently learning **Data Structure & Algorithms**
+- 👯 I’m looking to collaborate in **Open Source Projects**
+- 📫 How to reach me **etendraverma2501@gmail.com**
+- 😄 𝙿𝚛𝚘𝚗𝚘𝚞𝚗𝚜 **𝙷𝚎/𝙷𝚒𝚖/𝙷𝚒𝚜**
+- 💬 Ask me about **anything you want.**
 
 ## 🧰 Languages and Tools:
 <p align="left">
@@ -38,3 +41,4 @@ ___
 
 
 ![footer](https://user-images.githubusercontent.com/52012982/195276045-14b66c44-d780-4881-b32b-c9f0d28094d1.png)
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=etendra2501&label=Profile%20views&color=0e75b6&style=flat" alt="Etendra Verma" /> </p>
