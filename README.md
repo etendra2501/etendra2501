@@ -32,7 +32,7 @@
 <img alt="Programmer || Developer" width="300" src="https://i.pinimg.com/originals/78/5a/1b/785a1b9c359640da6bc9cfe3670b42ba.png" align="right">
 
 ___
-![etendra2501 github stats](https://github-readme-stats.vercel.app/api?username=etendra2501&show_icons=true&theme=radical)
+![etendra2501 github stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=etendra2501&&show_icons=true&theme=dark)
 ### Connect with me:
 
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/etendra-verma-199514180/) 
