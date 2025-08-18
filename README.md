@@ -9,7 +9,7 @@
 
 
 - 🔭 I’m interested to learn more about **AI and Robotics**
-- 🌱 I’m currently learning **Data Structure & Algorithms**
+- 🌱 I’m currently learning **Generative AI**
 - 👯 I’m looking to collaborate in **Open Source Projects**
 - 📫 How to reach me **etendraverma2501@gmail.com**
 - 😄 𝙿𝚛𝚘𝚗𝚘𝚞𝚗𝚜 **𝙷𝚎/𝙷𝚒𝚖/𝙷𝚒𝚜**
@@ -45,6 +45,9 @@ ___
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/etendra-verma-199514180/) 
 [<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />](etendraverma2501@gmail.com)
 [<img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>](https://twitter.com/etendra_verma/)
+
+
+> **“Generative AI is not just about intelligence — it's about imagination, too.”**
 
 
 ![footer](https://user-images.githubusercontent.com/52012982/195276045-14b66c44-d780-4881-b32b-c9f0d28094d1.png)
