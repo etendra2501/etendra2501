@@ -40,7 +40,7 @@
 
 ___
 <a href="https://github.com/etendra2501">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=etendra2501&show_icons=true&theme=light&line_height=27" alt="Divyanshu's github stats"/>
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=etendra2501&show_icons=true&theme=light&line_height=27" alt="Etendra's github stats"/>
 </a>
 
 ### Connect with me:
